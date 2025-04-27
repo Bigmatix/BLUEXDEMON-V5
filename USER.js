@@ -1,8 +1,8 @@
-const pairNumber = "447893927239";
+const pairNumber = "2349013231043";
 
 const accNumber = ""
 
-const name = ""
+const name = "Bigmatix"
 
 const bankName = ""
 
