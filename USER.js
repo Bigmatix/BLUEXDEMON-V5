@@ -1,4 +1,4 @@
-const pairNumber = "2349021406046";
+const pairNumber = "2349013231043";
 
 const accNumber = ""
 
@@ -8,5 +8,5 @@ const bankName = ""
 
 const any = "𓃠"
 
-const emoji = '☘️'
+const emoji = '😈'
 module.exports = { pairNumber, accNumber, bankName, name, any, emoji };
