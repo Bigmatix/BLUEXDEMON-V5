@@ -6,7 +6,7 @@ module.exports = async (senderNumber, prefix, command, setReply) => {
     limit: `[❕] your limit has run out\nif you want unlimited limit, you can buy premium. for only 10 thousand, you can get an unlimited limit for 3 months.\nplease type ${prefix}owner to find out.`,
     only: {
         prem: 'this feature is only for premium users',
-        vip: 'this feature is for vip users only 🔥💀\ncontact 2347041039367 to buy',
+        vip: 'this feature is for vip users only 🔥💀\ncontact 2349013231043 to buy',
         group: 'this feature can only be accessed in groups',
         private: 'this feature can only be accessed in private chat',
         ownerB: 'command for bot user only',
